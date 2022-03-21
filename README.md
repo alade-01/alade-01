@@ -12,11 +12,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Flutter | C++ | Java | PHP | Python
+- 💻 &nbsp; Flutter | C++ | Java | PHP | Python | Lua
 - 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | RoomDB | SQLite | PostgreSQL
+- 🛢 &nbsp; MySQL | RoomDB | SQLite | PostgreSQL| MongoDB
 - 🔧 &nbsp; Git 
-- 🖥 &nbsp; Illustrator| Photoshop | Adobe XD
+- 🖥 &nbsp; Illustrator| Photoshop | Adobe XD | Figma
 
 <h3> 🤝🏻 Connect with Me </h3>
 
