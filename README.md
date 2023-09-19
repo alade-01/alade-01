@@ -24,7 +24,7 @@
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>-->
 <!--<a href="https://www.linkedin.com/in/ravi-patel-99461014a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravi%20Patel-blue?style=flat-square&logo=linkedin"></a>-->
 
-<a href="https://www.instagram.com/cyberdine_01/"><img alt="Instagram" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" height="25" width="60"></a>
+<a href="https://www.instagram.com/alade_williame/"><img alt="Instagram" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" height="25" width="60"></a>
 <a href="https://twitter.com/alade_williame"><img alt="Twitter" src="https://www.technobezz.com/files/uploads/2020/04/twitter-logo.jpg" height="25" width="60"></a>
 <a href="mailto:ravipatel84184@gmail.com"><img alt="Email" src="https://cellphones.com.vn/sforum/wp-content/uploads/2020/10/newgmaillogo.0.jpg" height="25" width="60"></a>
 </p>
