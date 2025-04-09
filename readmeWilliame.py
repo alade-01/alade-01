@@ -133,8 +133,6 @@ def update_readme(followers, following, public_repos, public_gists, bio, total_c
 - **⭐ Stars Earned:** {total_stars}
 - **📊 Lines of Code:** {total_lines_of_code}
 
-![Profile SVG](github_profile.svg)
-
 {end_tag}"""
 
     # Read, replace, write
@@ -179,6 +177,7 @@ def main():
 
     generate_svg(user_data, stats)
 
+# ✅ Unpack values for update_readme
     update_readme(
         user_data["followers"],
         user_data["following"],
