@@ -6,11 +6,11 @@
 
 - **👥 Followers:** 3
 - **🔄 Following:** 6
-- **📁 Public Repositories:** 15
+- **📁 Public Repositories:** 12
 - **📝 Public Gists:** 0
 - **💬 Bio:** Programmer-Analyst
-- **🧮 Total Commits:** 2449
+- **🧮 Total Commits:** 787
 - **⭐ Stars Earned:** 4
-- **📊 Lines of Code:** 2211776
+- **📊 Lines of Code:** 1225042
 
 <!--STATS-END-->
